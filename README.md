@@ -2,4 +2,4 @@
 My hello-world tutorial<br>
 Just checking out the flow of github
 
-I made a change and commited into master branch
+Now my change and commit into master branch should be blocked
